@@ -8,7 +8,7 @@
 (function () {
     "use strict";
 
-    const USER_FILE = "user_1.json";
+    const USER_FILE = "user_2.json";
     const AUTH_KEY = "html_user_pin_gate_auth";
     const REMINDER_CLOSED_KEY = AUTH_KEY + "_reminder_closed_for";
 
