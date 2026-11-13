@@ -1,7 +1,7 @@
 
 /*
  * USER PIN GATE + RENEWAL / EXPIRY MANAGEMENT
- * JSON FILE: user_1.json
+ * JSON FILE: user_2.json
  * LOGIN SESSION: 8 HOURS
  */
 
